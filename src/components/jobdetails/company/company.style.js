@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     borderRadius: SIZES.large,
   },
   logoImage: {
+    objectFit: "contain",
     width: "80%",
     height: "80%",
   },
@@ -49,6 +50,7 @@ const styles = StyleSheet.create({
     width: 14,
     height: 14,
     tintColor: COLORS.gray,
+    objectFit: "contain",
   },
   locationName: {
     fontSize: SIZES.medium - 2,
