@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "jobs-app",
-    "slug": "jobs-app",
-    "version": "1.0.0",
+    "name": "jobit mobile",
+    "slug": "jobit-mobile",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
